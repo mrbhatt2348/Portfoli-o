@@ -206,7 +206,7 @@ nav [class*="fa-"]:hover {
 }
 
 .project {
-  color: rgba(166, 152, 214, 0.297);
+  color: gold;
   text-decoration: none;
   display: block;
 }
